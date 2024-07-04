@@ -1,3 +1,7 @@
 (PO)
 Product Owner: Mateus Henrique
 Equipe: Inimigos da Sprint
+
+Desenvolvedor: William Cardoso Barbosa
+Habilidades: Python, C++, TypeScript, NextJs e React Native
+Experiência:  Em desenvolvimento e modelagem de sistemas backend.
