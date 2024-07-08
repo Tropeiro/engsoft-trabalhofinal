@@ -5,3 +5,7 @@ Equipe: Inimigos da Sprint
 Desenvolvedor: William Cardoso Barbosa
 Habilidades: Python, C++, TypeScript, NextJs e React Native
 Experiência:  Em desenvolvimento e modelagem de sistemas backend.
+
+Desenvolvedor: Eduardo Hernany Pantoja de Macedo
+Habilidades: Python, C++, TypeScript, NextJs e React Native.
+Experiência:  Em desensolvimento Frontend e e modelagem de sistemas Backend.
