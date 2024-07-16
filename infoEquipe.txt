@@ -9,3 +9,7 @@ Experiência:  Em desenvolvimento e modelagem de sistemas backend.
 Desenvolvedor: Eduardo Hernany Pantoja de Macedo
 Habilidades: Python, C++, TypeScript, NextJs e React Native.
 Experiência:  Em desensolvimento Frontend e e modelagem de sistemas Backend.
+
+Desenvolvedor: Alef Rodrigues Macena
+Habilidades: C++, HTML, e CSS.
+Experiência:  Em desensolvimento Frontend.
