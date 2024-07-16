@@ -16,3 +16,7 @@ Experiência:  Em desensolvimento Frontend e e modelagem de sistemas Backend.
 Desenvolvedor: Alef Rodrigues Macena
 Habilidades: C++, HTML, e CSS.
 Experiência:  Em desensolvimento Frontend.
+
+Desenvolvedor: Leonardo Ivson Ribeiro Silveira
+Habilidades: C/C++, Angular, React Native, AWS Enginer.
+Experiência:  Frontend, I.A.
